@@ -14,15 +14,15 @@ Research Interests
 ======  
 My research interests mainly span two areas: network optimization, covering both backbone networks and data center networks, and blocking theory, including set-theoretic foundations for non-blocking networks and queueing-theoretic analysis for blocking networks.
 
-Data Center Networks
+*Data Center Networks*
 ------ 
 In the area of data center networks, my work focuses on AI-driven network architectures. These environments must support diverse service types such as unicast, multicast, and co-flow. I have designed several optical-circuit-switching–based data center network architectures and developed corresponding algorithms to enable efficient deployment of each type of service.
 
-Backbone Networks
+*Backbone Networks*
 ------
 My research on backbone networks focuses on two themes: the blocking theory of switching networks and the design of next-generation switching elements. I have derived strictly non-blocking conditions as well as analytical models for blocking probabilities across various optical switching architectures. In addition, I have designed several Optical Cross-Connect (OXC) architectures to support future backbone networks.
 
-Cloud-Edge Networks
+*Cloud-Edge Networks*
 ------ 
 In cloud–edge networks, I focus on survivability and resilience. For example, I have formulated integer linear programming (ILP) models for service protection in Mobile/Multi-access Edge Computing (MEC) scenarios, and designed heuristic algorithms for access-point and link protection in MEC environments.
 
@@ -30,13 +30,13 @@ My background Information
 ======  
 Some background information including my faith and some tiny awards I won.
 
-My Faith
+*Faith*
 ------ 
 You have to know the best idol in the world. Do not hesitate and [JUST CLICK HERE](https://space.bilibili.com/672328094/).  
 
-Some Tiny Awards
+*Awards*
 ------
-I won the Distinguished Master's Thesis Award of Jiangsu Province (江苏省优秀硕士学位论文) in 2024. 
+I won the Distinguished Master's Thesis Award of Jiangsu Province (江苏省优秀硕士学位论文) in 2024.  
 I won the Distinguished Master's Thesis Award of The Chinese Institute of Electronics (中国电子学会优秀硕士学位论文) in 2023.  
 I am an outstanding graduate of Soochow University (苏州大学优秀毕业生).  
 I won the National Scholarship (国家奖学金) in 2022.  
