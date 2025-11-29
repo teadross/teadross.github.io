@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi👋, I am Jiemin Lin, a backend developer in China Telecom Cloud Computing Corporation. I received the M.S. degree from Soochow University, supervised by Prof. [Gangxiang Shen](https://scholar.google.com/citations?user=1pPsTbAAAAAJ). My research background is in electrical engineering and network communication, and I focus on optimizing network performance, including backbone networks and datacenter networks. I have a cheerful disposition. If you are interested in me personally, or if you have any questions about my research work, please contact me via email. Normally, I will reply to you within a day.
+Hi👋, I am Jiemin Lin, a backend developer in China Telecom Cloud Computing Corporation. I received the M.S. degree from Soochow University, supervised by Prof. [Gangxiang Shen](https://scholar.google.com/citations?user=1pPsTbAAAAAJ). My research background is in electronic engineering, information engineering and network communications. I focus on optimizing network performance, including backbone networks, datacenter networks and cloud-edge networks. I have a cheerful disposition. If you are interested in me personally, or if you have any questions about my research work, please contact me via email. Normally, I will reply to you within a day.
 
 Research Interests
 ======  
@@ -24,7 +24,7 @@ My research on backbone networks focuses on two themes: the blocking theory of s
 
 *Cloud-Edge Networks*
 ------ 
-In cloud–edge networks, I focus on survivability and resilience. For example, I have formulated integer linear programming (ILP) models for service protection in Mobile/Multi-access Edge Computing (MEC) scenarios, and designed heuristic algorithms for access-point and link protection in MEC environments.
+In cloud–edge networks, I focus on survivability and resilience. For example, I have formulated integer linear programming (ILP) models for service protection in Mobile/Multi-access Edge Computing (MEC) scenarios, and designed heuristic algorithms for access-point and link protection in MEC scenarios.
 
 My background Information
 ======  
@@ -37,6 +37,7 @@ You have to know the best idol in the world. Do not hesitate and [JUST CLICK HER
 *Awards*
 ------
 I won the Distinguished Master's Thesis Award of Jiangsu Province (江苏省优秀硕士学位论文) in 2024.  
+I won the Distinguished Master's Thesis Award of Soochow University  (苏州大学优秀硕士学位论文) in 2024.  
 I won the Distinguished Master's Thesis Award of The Chinese Institute of Electronics (中国电子学会优秀硕士学位论文) in 2023.  
 I am an outstanding graduate of Soochow University (苏州大学优秀毕业生).  
 I won the National Scholarship (国家奖学金) in 2022.  
