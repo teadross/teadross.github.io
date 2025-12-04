@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi👋, I am Jiemin Lin (林玠珉), a backend developer in China Telecom Cloud Computing Corporation. I received the M.S. degree from Soochow University, supervised by Prof. [Gangxiang Shen](https://scholar.google.com/citations?user=1pPsTbAAAAAJ). My research background is in electronic engineering, information engineering and network communications. I focus on optimizing network performance, including backbone networks, datacenter networks and cloud-edge networks. I have a cheerful disposition. If you are interested in me personally, or if you have any questions about my research work, please contact me via email. Normally, I will reply to you within a day.
+Hi 👋, I’m Jiemin Lin (林玠珉), a backend developer at China Telecom Cloud Computing Corporation. I received my M.S. degree from Soochow University, where I was supervised by Prof. [Gangxiang Shen](https://scholar.google.com/citations?user=1pPsTbAAAAAJ). My research background spans electronic engineering, information engineering, and network communications. I focus on optimizing network performance across backbone networks, datacenter networks, and cloud–edge networks. I am also a certified basic first-aid provider accredited by the Red Cross and the American Heart Association (AHA).   
+I have a cheerful and outgoing personality. If you are interested in my work or would like to connect, feel free to reach out via email — I typically reply within a day.
 
 Research Interests
 ======  
