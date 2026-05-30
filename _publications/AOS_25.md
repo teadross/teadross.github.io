@@ -1,7 +1,7 @@
 ---
 title: "Research Progress of High-Degree OXC Technologies"
 collection: publications
-permalink: /publication/AOS_25
+permalink: /publication/AOS_25/
 excerpt: 'This paper is about the research progress of high-degree OXC technologies.'
 date: 2025-07-16
 venue: 'Acta Optica Sinica'

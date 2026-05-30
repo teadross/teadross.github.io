@@ -11,8 +11,10 @@ redirect_from:
 
 Work experience
 ======
-* 2023.07 - now: China Telecom Cloud Computing Corporation.
-  * As a backend enginner in AI team.
+* 2025.05 - now: ByteDance
+  * As a backend engineer in AI team
+* 2023.07 - 2025.05: China Telecom Cloud Computing Corporation
+  * As a backend engineer in XiRang AI applications team
 
 Education
 ======
@@ -25,10 +27,10 @@ Skills
   * Python
   * MySQL/Redis/Milvus
   * MinIO/S3
-  * Triton/TensorRT
+  * Tritonserver
   * vLLM/SGLang
   * K8s/Docker
-  * NVIDIA/Ascend
+  * NVIDIA/Ascend(TensorRT/ATC/MindIE/...)
 * Mathematical:
   * Queueing Theory
   * Integer Linear Programming
@@ -37,17 +39,6 @@ Skills
 * Computer Science:
   * Computer Networking
   * Data Structure 
-
-Research projects
-======
-* 2020.08 - 2021.09: Huawei Project
-  * Won the HUAWEI Outstanding Cooperation Projects Award (Ranked 1st during all candidates)
-  * Published 3 papers during this work
-  * Teammates: Zhenwei Zhai and Shifeng Ding
-
-* 2021.09 - 2022.11: Huawei Project
-  * Published 2 papers during this work
-  * Teammates: Zhenwei Zhai and Kexing Yang
 
 Publications
 ======

@@ -1,7 +1,7 @@
 ---
 title: "Twisted and Folded: Increasing the Capacity of Clos-WSS Optical Cross-Connect (OXC)"
 collection: publications
-permalink: /publication/ACP_25
+permalink: /publication/ACP_25/
 excerpt: 'This paper is about the TF-Clos OXC.'
 date: 2025-11-07
 venue: 'Asia Communications and Photonics Conference 2025'

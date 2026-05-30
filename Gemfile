@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "https://gems.ruby-china.com/"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -10,6 +10,11 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
+
+# Keep native dependencies compatible with the local Ruby 2.6 runtime.
+gem "ffi", "~> 1.15.5"
+gem "connection_pool", "~> 2.4.1"
+gem "nokogiri", "~> 1.13.10"
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.

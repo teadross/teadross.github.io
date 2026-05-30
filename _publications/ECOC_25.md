@@ -1,7 +1,7 @@
 ---
 title: "Evolution Towards High-Dimensional Reconfigurable Optical Add-Drop Multiplexer/Optical Cross-Connect (ROADM/OXC)"
 collection: publications
-permalink: /publication/ECOC_25
+permalink: /publication/ECOC_25/
 excerpt: 'This paper is about the evolution of high-degree ROADM/OXC.'
 date: 2025-09-28
 venue: 'European Conference on Optical Communication 2025'

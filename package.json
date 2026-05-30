@@ -1,22 +1,22 @@
 {
-  "name": "minimal-mistakes",
-  "version": "3.4.2",
-  "description": "Minimal Mistakes Jekyll theme npm build scripts",
+  "name": "jiemin-lin-homepage",
+  "version": "1.0.0",
+  "description": "Personal GitHub Pages site built with Jekyll.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "https://github.com/teadross/teadross.github.io.git"
   },
   "keywords": [
     "jekyll",
-    "theme",
-    "minimal"
+    "personal-site",
+    "github-pages"
   ],
-  "author": "Michael Rose",
+  "author": "Jiemin Lin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/teadross/teadross.github.io/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://teadross.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
