@@ -11,9 +11,9 @@ redirect_from:
 
 Work experience
 ======
-* 2025.05 - now: ByteDance
+* 2026.05 - now: ByteDance
   * As a backend engineer in AI team
-* 2023.07 - 2025.05: China Telecom Cloud Computing Corporation
+* 2023.07 - 2026.05: China Telecom Cloud Computing Corporation
   * As a backend engineer in XiRang AI applications team
 
 Education
