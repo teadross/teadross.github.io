@@ -26,16 +26,20 @@ In addition, I am a certified basic first-aid provider accredited by both the Re
 
 <div class="stat-grid">
   <div class="stat-card">
-    <strong>15+/20+</strong>
-    <span>Publications/Patents</span>
+    <strong>10+</strong>
+    <span>Journal & Conference Papers</span>
   </div>
   <div class="stat-card">
-    <strong>115+</strong>
-    <span>Paper citations</span>
+    <strong>20+</strong>
+    <span>Patents and PCT Applications</span>
   </div>
   <div class="stat-card">
-    <strong>24h</strong>
-    <span>First-aid support availability</span>
+    <strong>110+</strong>
+    <span>Citations</span>
+  </div>
+  <div class="stat-card">
+    <strong>24/7</strong>
+    <span>Certified First Aid Support</span>
   </div>
 </div>
 
