@@ -23,22 +23,33 @@ Education
   
 Skills
 ======
-* Coding:
+* Coding / AI Development:
   * Python
-  * MySQL/Redis/Milvus
-  * MinIO/S3
-  * Tritonserver
-  * vLLM/SGLang
-  * K8s/Docker
-  * NVIDIA/Ascend(TensorRT/ATC/MindIE/...)
-* Mathematical:
+  * Trae (AI Coding)
+* Data Systems (Storage / Retrieval / Analytics):
+  * MySQL (Relational)
+  * Redis (Key-Value / Cache)
+  * Milvus (Vector Database / Semantic Retrieval)
+  * MinIO / S3 (Object Storage / Data Lake)
+* AI Inference & Model Serving:
+  * Triton Inference Server
+  * vLLM / SGLang / LMDeploy / MindIE (LLM Serving Stack)
+* Infrastructure / Cloud Native:
+  * Kubernetes / Helm
+  * Docker / containerd
+* Hardware Acceleration & Optimization:
+  * NVIDIA / Ascend (TensorRT / ATC / GPU & NPU Optimization)
+* System / Network Engineering:
+  * iptables
+  * tshark
+* Mathematical / Optimization:
   * Queueing Theory
   * Integer Linear Programming
   * Set Theory
-  * Matlab/AMPL
-* Computer Science:
+  * MATLAB / AMPL
+* Computer Science Foundations:
   * Computer Networking
-  * Data Structure 
+  * Data Structures & Algorithms
 
 Publications
 ======
