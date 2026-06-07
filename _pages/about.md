@@ -26,11 +26,11 @@ In addition, I am a certified basic first-aid provider accredited by both the Re
 
 <div class="stat-grid">
   <div class="stat-card">
-    <strong>10+</strong>
-    <span>Publications and technical papers</span>
+    <strong>15+/20+</strong>
+    <span>Publications/Patents</span>
   </div>
   <div class="stat-card">
-    <strong>100+</strong>
+    <strong>115+</strong>
     <span>Paper citations</span>
   </div>
   <div class="stat-card">
@@ -39,7 +39,7 @@ In addition, I am a certified basic first-aid provider accredited by both the Re
   </div>
 </div>
 
-I have a cheerful and outgoing personality. If you are interested in my work or would like to connect, feel free to reach out via email. I typically reply within a day.
+I am cheerful. If you are interested in my work or would like to connect, feel free to reach out via email. I typically reply within a day.
 
 Research Interests
 ======  
