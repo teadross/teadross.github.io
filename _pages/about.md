@@ -9,20 +9,20 @@ redirect_from:
 ---
 
 <section class="home-hero">
-  <span class="eyebrow">AI/Backend Developer · Network Optimization Researcher</span>
+  <span class="eyebrow">AI Backend Engineer · Network Systems Researcher</span>
   <h1>Hi, I’m Jiemin Lin (林玠珉).</h1>
-  <p>I study scalable and reliable network systems across backbone, datacenter, and cloud-edge environments.</p>
-  <p>I build AI backends for RAG and agents, and deploy and quantize CV and LLM models.</p>
+  <p>I study scalable and reliable network systems across backbone, data center, and cloud-edge environments.</p>
+  <p>I build AI backends for RAG and agents, and deploy and quantize computer vision and large language models.</p>
   <p>I am also a trained first aider.</p>
 </section>
 
-I am currently an AI/Backend developer at ByteDance. Previously, I worked as a backend developer at China Telecom Cloud Computing Corporation.
+I am currently an AI backend engineer at ByteDance. Previously, I worked at China Telecom Cloud Computing Corporation on AI backend systems and infrastructure.
 
-I have more than three years of experience in retrieval-augmented generation (RAG), AI agents, and AI system operations. My work also includes GPU cluster management, as well as the deployment and quantization of AI models across speech, computer vision, and large language model (LLM) applications.
+I have more than three years of experience in retrieval-augmented generation (RAG), AI agents, and deploying and operating production AI systems. My work also includes GPU cluster management, as well as the deployment and quantization of AI models across speech, computer vision, and large language model (LLM) applications.
 
-I received my M.S. degree from Soochow University under the supervision of Prof. [Gangxiang Shen](https://scholar.google.com/citations?user=1pPsTbAAAAAJ). My academic background spans electronic engineering, information engineering, and network communications.
+I received my M.S. degree from Soochow University under the supervision of Prof. [Gangxiang Shen](https://scholar.google.com/citations?user=1pPsTbAAAAAJ). My academic training spans electronic engineering, information engineering, and network communications.
 
-In addition, I am a certified basic first-aid provider accredited by both the Red Cross and the American Heart Association (AHA).
+I am also a certified first-aid provider accredited by both the Red Cross and the American Heart Association (AHA).
 
 <div class="stat-grid">
   <div class="stat-card">
@@ -43,11 +43,11 @@ In addition, I am a certified basic first-aid provider accredited by both the Re
   </div>
 </div>
 
-I am cheerful. If you are interested in my work or would like to connect, feel free to reach out via email. I typically reply within a day.
+I am always happy to discuss research, engineering, or new ideas. If you are interested in my work or would like to connect, feel free to reach out via email. I typically respond within 24 hours.
 
 Research Interests
 ======  
-My research interests mainly span two areas: network optimization, covering both backbone networks and data center networks, and blocking theory, including set-theoretic foundations for non-blocking networks and queueing-theoretic analysis for blocking networks.
+My research interests mainly span network optimization across backbone, data center, and cloud-edge networks, as well as blocking theory for switching networks, including set-theoretic foundations for non-blocking phenomena and queueing-theoretic analysis for blocking phenomena.
 
 <div class="feature-grid">
   <div class="feature-card">
@@ -73,21 +73,21 @@ My research interests mainly span two areas: network optimization, covering both
   <span>AI Infrastructure</span>
 </div>
 
-My background Information
+More About Me
 ======  
-Some background information including my faith and some tiny awards I won.
+A few personal notes, including my faith and selected honors.
 
 *Faith*
 ------ 
-You have to know the best idol in the world. Do not hesitate and [JUST CLICK HERE](https://space.bilibili.com/672328094/).  
+You should know the best idol in the world. Do not hesitate and [JUST CLICK HERE](https://space.bilibili.com/672328094/).  
 
-*Awards*
+*Selected Awards*
 ------
-Recipient of the Departmental Excellence Award for Code Contributions at China Telecom Cloud Computing Corporation (天翼云代码贡献标杆奖), 2025.  
-Recipient of the Distinguished Master’s Thesis Award of Jiangsu Province (江苏省优秀硕士学位论文), 2024.  
-Recipient of the Distinguished Master’s Thesis Award of Soochow University (苏州大学优秀硕士学位论文), 2024.  
-Recipient of the Distinguished Master’s Thesis Award from the Chinese Institute of Electronics (中国电子学会优秀硕士学位论文), 2023.  
-Recognized as an Outstanding Graduate of Soochow University (苏州大学优秀毕业生).  
-Recipient of the National Scholarship (国家奖学金), 2022.  
-Recipient of the HUAWEI Outstanding Cooperation Project Award (华为优秀合作项目奖), 2022.  
-Named an Outstanding Three-Good Student of Soochow University (苏州大学三好学生标兵), 2019.  
+Departmental Excellence Award for Code Contributions at China Telecom Cloud Computing Corporation (天翼云代码贡献标杆奖), 2025.  
+Distinguished Master’s Thesis Award of Jiangsu Province (江苏省优秀硕士学位论文), 2024.  
+Distinguished Master’s Thesis Award of Soochow University (苏州大学优秀硕士学位论文), 2024.  
+Distinguished Master’s Thesis Award from the Chinese Institute of Electronics (中国电子学会优秀硕士学位论文), 2023.  
+Outstanding Graduate of Soochow University (苏州大学优秀毕业生).  
+National Scholarship (国家奖学金), 2022.  
+HUAWEI Outstanding Cooperation Project Award (华为优秀合作项目奖), 2022.  
+Outstanding Three-Good Student of Soochow University (苏州大学三好学生标兵), 2019.  
