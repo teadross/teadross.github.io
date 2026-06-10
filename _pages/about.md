@@ -12,13 +12,13 @@ redirect_from:
   <span class="eyebrow">AI Backend Engineer · Network Systems Researcher</span>
   <h1>Hi, I’m Jiemin Lin (林玠珉).</h1>
   <p>I study scalable and reliable network systems across backbone, data center, and cloud-edge environments.</p>
-  <p>I build AI backends for RAG and agents, and deploy and quantize computer vision and large language models.</p>
+  <p>I build AI backends for RAG and agents, and deploy and quantize CV and LLM models.</p>
   <p>I am also a trained first aider.</p>
 </section>
 
 I am currently an AI backend engineer at ByteDance. Previously, I worked at China Telecom Cloud Computing Corporation on AI backend systems and infrastructure.
 
-I have more than three years of experience in retrieval-augmented generation (RAG), AI agents, and deploying and operating production AI systems. My work also includes GPU cluster management, as well as the deployment and quantization of AI models across speech, computer vision, and large language model (LLM) applications.
+I have more than three years of experience in retrieval-augmented generation (RAG), AI agents, and deploying and operating production AI systems. My work also includes GPU/NPU cluster management, as well as the deployment and quantization of AI models across speech, computer vision (CV), and large language model (LLM) applications.
 
 I received my M.S. degree from Soochow University under the supervision of Prof. [Gangxiang Shen](https://scholar.google.com/citations?user=1pPsTbAAAAAJ). My academic training spans electronic engineering, information engineering, and network communications.
 
@@ -60,7 +60,7 @@ My research interests mainly span network optimization across backbone, data cen
   </div>
   <div class="feature-card">
     <h3>Cloud-Edge Networks</h3>
-    <p>I focus on survivability and resilience in MEC scenarios, including integer linear programming models and heuristic algorithms for access-point and link protection.</p>
+    <p>I focus on survivability and resilience in Multi-access Edge Computing (MEC) scenarios, including integer linear programming models and heuristic algorithms for access-point and link protection.</p>
   </div>
 </div>
 
@@ -68,9 +68,7 @@ My research interests mainly span network optimization across backbone, data cen
   <span>Network Optimization</span>
   <span>Blocking Theory</span>
   <span>OXC</span>
-  <span>MEC</span>
-  <span>Backend Systems</span>
-  <span>AI Infrastructure</span>
+  <span>AI Data Center Networks</span>
 </div>
 
 More About Me
