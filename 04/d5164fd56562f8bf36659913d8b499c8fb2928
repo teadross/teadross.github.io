@@ -1,0 +1,55 @@
+_pages/cv.md
+  h_f3aafe42d2b20d 27
+  s_3fa7c9c4bc1d03::t_05a0a6aebf6e29 28
+  s_757bd6452ec2b8::t_4366b46fb78bc0 26
+  s_afd8aeec385d19::t_b444cf7b99b149 34
+  s_fa615941cda1f2::t_8fac7d85153989 32
+  s_afd8aeec385d19::t_edc219d81950dc 35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "04d5164fd56562f8bf36659913d8b499c8fb2928",
+  "prompts": {},
+  "humans": {
+    "h_f3aafe42d2b20d": {
+      "author": "linjiemin <linjiemin@bytedance.com>"
+    }
+  },
+  "sessions": {
+    "s_3fa7c9c4bc1d03": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-f496517a-ba3d-4e3d-a7bc-c08b4c62fc62",
+        "model": "default"
+      },
+      "human_author": null
+    },
+    "s_757bd6452ec2b8": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-845e9593-7124-4bd4-b2fa-e3355b2574b6",
+        "model": "default"
+      },
+      "human_author": null
+    },
+    "s_afd8aeec385d19": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-26f1fd95-06c6-45cb-8966-c2fbcb656b32",
+        "model": "default"
+      },
+      "human_author": null
+    },
+    "s_fa615941cda1f2": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-09c17244-3988-4292-8520-c4fd96d23128",
+        "model": "default"
+      },
+      "human_author": null
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
