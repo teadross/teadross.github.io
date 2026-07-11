@@ -23,14 +23,16 @@ Education
   
 Skills
 ======
-* Coding / AI Development:
-  * Python
-  * Trae (AI Coding)
+* Coding / AI Coding Agent:
+  * Python / Java
+  * ACP based AI Coding Agents (e.g., Trae, OpenCode, Claude Code, Codex, etc.)
 * Data Systems (Storage / Retrieval / Analytics):
   * MySQL (Relational)
   * Redis (Key-Value / Cache)
-  * Milvus (Vector Database / Semantic Retrieval)
+  * Milvus / Faiss / OpenSearch (Vector Database / Semantic Retrieval)
   * MinIO / S3 (Object Storage / Data Lake)
+* Version Control:
+  * Git / flyway
 * AI Inference & Model Serving:
   * Triton Inference Server
   * vLLM / SGLang / LMDeploy / MindIE (LLM Serving Stack)
