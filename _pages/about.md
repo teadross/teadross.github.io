@@ -34,7 +34,7 @@ I am also a certified first-aid provider accredited by both the Red Cross and th
     <span>Patents and PCT Applications</span>
   </div>
   <div class="stat-card">
-    <strong>110+</strong>
+    <strong>120+</strong>
     <span>Citations</span>
   </div>
   <div class="stat-card">
